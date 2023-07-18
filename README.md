@@ -34,7 +34,7 @@ The Mask Wearing dataset is an object detection dataset of individuals wearing v
 
 ## TRAINING YOLOV5 MODEL
 * Set images size 640 with batch of 8
-* Train model around 1000 epochs but Stopping training early as no improvement observed in last 100 epochs Best results observed at epoch 278 i.e P:0.877    R:0.876      mAP50:0.909   mAP50-95:0.62
+* Train model around 600 epochs but Stopping training at 440. 
 * Visualise the training metrics with the help of tensorboard
 
 ## TESTING IMAGES USING TEST DATA
