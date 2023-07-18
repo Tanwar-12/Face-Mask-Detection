@@ -54,10 +54,10 @@ https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/e1a766a3-d46e-
 
 
 ## CHALLENGES FACED:
-*	challenge faced in bounding boxes creation
-*	Assign the same no for all classes
-*	Made mistake in yolov5 folder structure
-*	Take lots of time to create bounding boxes
+*	Challenge faced in bounding boxes creation.
+*	Assign the same number for all classes.
+*	Made mistakes in yolov5 folder structure.
+*	Take lots of time to create bounding boxes.
 
 ## WHAT WE LEARN:
 *	Understand the YoloV5 folder structure as well as learn label-IMG tool.
