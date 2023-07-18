@@ -1,4 +1,4 @@
-# FACE MASK DETECTION😷 {An Amazing Project}
+# FACE MASK DETECTION 😷 
 
 
 ### Overview : 
