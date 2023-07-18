@@ -1,5 +1,0 @@
-train: /content/drive/MyDrive/Mask_Wearing/train
-val: /content/drive/MyDrive/Mask_Wearing/valid
-
-nc: 2
-names: ['mask', 'no-mask']
