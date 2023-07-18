@@ -3,7 +3,7 @@
 ### Overview : 
 The purpose of this project is to create a Deep Learning model that identifies whether or not someone is wearing a mask. My model is based on YOLO's object detection algorithm, and I'm using the dataset from Roboflow website.
 
-### Dataset : 
+### 📁 Dataset Used : 
  https://public.roboflow.ai/object-detection/mask-wearing
 
 **The dataset consists of two classes :**
