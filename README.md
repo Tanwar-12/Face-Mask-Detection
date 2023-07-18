@@ -14,8 +14,11 @@ The Mask Wearing dataset is an object detection dataset of individuals wearing v
 
 ## DATA PREPRATION:
 * Prepare folder structure that can be accept by YoloV5.
+ ![train folders](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/fcd6ef02-1931-42cf-882d-24f8ef9f931c)
+
 * Total 105 images for training and 29 images for validation present in 2 classes.
 * Create a bounding boxes with the help of label-img And makesense.ai website according to YoloV5.
+* 
 
 ## STEPS TO USE YOLOV5
 * Cloning the YoloV5 file from official repository.
