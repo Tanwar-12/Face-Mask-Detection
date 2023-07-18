@@ -10,8 +10,8 @@ The purpose of this project is to create a Deep Learning model that identifies w
 - with_mask
 - without_mask
 ![image](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/c13756bd-db6f-4ba6-a910-efc6adb88675)
-
-  # Data Preparation:
+#Workflow:
+  ## Data Preparation:
   * Create a bounding boxes with the help of label-img And makesense.ai website according to YoloV5.
   * Prepare folder structure that can be accept by YoloV5.
   ![train folders](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/69b19a8e-2f81-4d9b-a762-ffa73ac59be1)
