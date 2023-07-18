@@ -1,5 +1,5 @@
 # FACE MASK DETECTION
-To build a system for detectiong if an individual is wearing a mask in a give image.
+To build a system for detectiong if an individual is wearing a mask in a given image.
 
 ## DATA OVERVIEW & COLLECTION:
 The Mask Wearing dataset is an object detection dataset of individuals wearing various types of masks and those without masks. The images were originally collected by Cheng Hsun Teng from Eden Social Welfare Foundation, Taiwan and relabeled by the Roboflow team.
