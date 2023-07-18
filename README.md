@@ -43,6 +43,10 @@ The Mask Wearing dataset is an object detection dataset of individuals wearing v
 
 ## TESTING LOW QUALITY VIDEO DEMO
 
+https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/e1a766a3-d46e-40dd-a4e5-a55400653160
+
+
+
 
 
 ## CHALLENGES FACED:
