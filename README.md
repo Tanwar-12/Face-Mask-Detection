@@ -1,4 +1,5 @@
-# FACE MASK DETECTION
+# FACE MASK DETECTIONFace😷 {An Amazing Project}
+
 ### Overview : 
 The purpose of this project is to create a Deep Learning model that identifies whether or not someone is wearing a mask. My model is based on YOLO's object detection algorithm, and I'm using the dataset from Roboflow website.
 
@@ -45,3 +46,4 @@ Face mask detection is an object detection task that detects whether people are 
 
 https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/a5052014-e850-4dc3-9bd1-9733c520fff8
 
+## Just follow☝️ me and Star⭐ my repository 
