@@ -8,10 +8,13 @@ The purpose of this project is to create a Deep Learning model that identifies w
 ### 📁 Dataset Used : 
  https://public.roboflow.ai/object-detection/mask-wearing
 
-**The dataset consists of two classes :**
+**The dataset consists of two classes:**
 - with_mask
 - without_mask
-![image](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/c13756bd-db6f-4ba6-a910-efc6adb88675)
+![image](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/dee0a38e-7194-45cc-bc01-fcb1a832e772)
+
+
+
 # Workflow:
   ## Data Preparation:
   * Create a bounding boxes with the help of label-img And makesense.ai website according to YoloV5.
