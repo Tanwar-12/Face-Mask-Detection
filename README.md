@@ -47,5 +47,5 @@ Face mask detection is an object detection task that detects whether people are 
 https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/a5052014-e850-4dc3-9bd1-9733c520fff8
 
 ## Just follow☝️ me and Star⭐ my repository 
-## Motivated and supportedby the works of,
+## Motivated and supported by the works of,
 [Mr.Mukesh Pawar (Brother)].
