@@ -7,6 +7,8 @@ The Mask Wearing dataset is an object detection dataset of individuals wearing v
 * Download from: https://public.roboflow.ai/object-detection/mask-wearing.
 * Dataset contain total 149 images into two classes i.e Mask & Without Mask.
 * Example image (some with masks, some without):
+ ![image](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/6ba87ec1-e249-4126-8662-2cd14403f0c4)
+
   
 
 
