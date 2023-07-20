@@ -29,7 +29,7 @@ The purpose of this project is to create a Deep Learning model that identifies w
 
  ## Steps Before Training Custom Dataset:
 * Go to yolov5/data/.
-* Open coco128.yaml
+* Open data.yaml
 * Edit the following inside it:
 
  1. Training and Validation file path
