@@ -55,4 +55,4 @@ https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/a5052014-e850-
 
 ## Just follow☝️ me and Star⭐ my repository 
 ## Motivated and supported by the works of,
-[Mr.Mukesh Pawar (Brother)].
+[Mr.Mukesh DPawar].
